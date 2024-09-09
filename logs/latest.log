@@ -1,0 +1,206 @@
+[15:52:55] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:52:57] [ServerMain/INFO]: Loaded 1290 recipes
+[15:52:58] [Server thread/INFO]: Starting minecraft server version 1.21
+[15:52:58] [Server thread/INFO]: Loading properties
+[15:52:58] [Server thread/INFO]: This server is running CraftBukkit version 4226-Spigot-146439e-2889b3a (MC: 1.21) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[15:52:59] [Server thread/INFO]: Debug logging is disabled
+[15:52:59] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:52:59] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:52:59] [Server thread/INFO]: Default game type: SURVIVAL
+[15:52:59] [Server thread/INFO]: Generating keypair
+[15:52:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:52:59] [Server thread/INFO]: Using default channel type
+[15:52:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:52:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:52:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:52:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:52:59] [Server thread/INFO]: Preparing level "world"
+[15:52:59] [Server thread/INFO]: -------- World Settings For [world] --------
+[15:52:59] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:52:59] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:52:59] [Server thread/INFO]: View Distance: 10
+[15:52:59] [Server thread/INFO]: Simulation Distance: 10
+[15:52:59] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:52:59] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:52:59] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[15:52:59] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:52:59] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:52:59] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[15:52:59] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:52:59] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:52:59] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:52:59] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:52:59] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:52:59] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:52:59] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:52:59] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:52:59] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:52:59] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:52:59] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:52:59] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:52:59] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:52:59] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:52:59] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:52:59] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:52:59] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[15:52:59] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[15:52:59] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[15:53:00] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[15:53:00] [Server thread/INFO]: Mob Spawn Range: 6
+[15:53:00] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[15:53:00] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[15:53:00] [Server thread/INFO]: Max TNT Explosions: 100
+[15:53:00] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:53:00] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[15:53:00] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:53:00] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:53:00] [Server thread/INFO]: View Distance: 10
+[15:53:00] [Server thread/INFO]: Simulation Distance: 10
+[15:53:00] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:53:00] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:53:00] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[15:53:00] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:53:00] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:53:00] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[15:53:00] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:53:00] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:53:00] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:53:00] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:53:00] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:53:00] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:53:00] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:53:00] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:53:00] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:53:00] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:53:00] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:53:00] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:53:00] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:53:00] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:53:00] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:53:00] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:53:00] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[15:53:00] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[15:53:00] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[15:53:00] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[15:53:00] [Server thread/INFO]: Mob Spawn Range: 6
+[15:53:00] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[15:53:00] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[15:53:00] [Server thread/INFO]: Max TNT Explosions: 100
+[15:53:00] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:53:01] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[15:53:01] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:53:01] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:53:01] [Server thread/INFO]: View Distance: 10
+[15:53:01] [Server thread/INFO]: Simulation Distance: 10
+[15:53:01] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:53:01] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:53:01] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[15:53:01] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:53:01] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:53:01] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[15:53:01] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:53:01] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:53:01] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:53:01] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:53:01] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:53:01] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:53:01] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:53:01] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:53:01] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:53:01] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:53:01] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:53:01] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:53:01] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:53:01] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:53:01] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:53:01] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:53:01] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[15:53:01] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[15:53:01] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[15:53:01] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[15:53:01] [Server thread/INFO]: Mob Spawn Range: 6
+[15:53:01] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[15:53:01] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[15:53:01] [Server thread/INFO]: Max TNT Explosions: 100
+[15:53:01] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:53:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:53:02] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:53:02] [Worker-Main-3/INFO]: Preparing spawn area: 16%
+[15:53:02] [Server thread/INFO]: Time elapsed: 716 ms
+[15:53:02] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[15:53:02] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:53:02] [Worker-Main-9/INFO]: Preparing spawn area: 51%
+[15:53:03] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[15:53:03] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[15:53:04] [Worker-Main-11/INFO]: Preparing spawn area: 51%
+[15:53:04] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[15:53:05] [Worker-Main-9/INFO]: Preparing spawn area: 51%
+[15:53:05] [Server thread/INFO]: Time elapsed: 3050 ms
+[15:53:05] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[15:53:05] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[15:53:05] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[15:53:06] [Worker-Main-9/INFO]: Preparing spawn area: 51%
+[15:53:06] [Server thread/INFO]: Time elapsed: 1060 ms
+[15:53:06] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:53:06] [Server thread/INFO]: Done (6.600s)! For help, type "help"
+[15:53:22] [User Authenticator #1/INFO]: UUID of player SP_SHALESH is 7e2f18b9-5e55-3aa9-be96-4690e964d38b
+[15:53:41] [Server thread/INFO]: SP_SHALESH joined the game
+[15:53:41] [Server thread/INFO]: SP_SHALESH[/127.17.248.118:50077] logged in with entity id 24 at ([world]52.5, 67.0, -37.5)
+[15:54:03] [User Authenticator #2/INFO]: UUID of player gauti10 is e6289888-0fe1-3237-9e67-b3493aad493d
+[15:54:07] [Server thread/INFO]: gauti10 joined the game
+[15:54:07] [Server thread/INFO]: gauti10[/127.123.189.159:50112] logged in with entity id 272 at ([world]122.91231430021597, 80.0, -134.862765471429)
+[15:55:49] [Server thread/INFO]: SP_SHALESH was slain by Spider
+[15:56:05] [Server thread/INFO]: gauti10 drowned
+[15:57:08] [Server thread/INFO]: SP_SHALESH was slain by Zombie
+[15:57:13] [Server thread/WARN]: SP_SHALESH moved too quickly! 1.1134850855084935,1.2491870787446828,-9.938790055671674
+[15:58:35] [Server thread/INFO]: gauti10 was slain by Zombie
+[16:00:13] [Server thread/INFO]: gauti10 was slain by Zombie
+[16:00:27] [Server thread/INFO]: Made gauti10 a server operator
+[16:01:31] [Server thread/INFO]: Made SP_SHALESH a server operator
+[16:01:36] [Server thread/INFO]: SP_SHALESH was slain by Zombie
+[16:01:45] [Server thread/INFO]: SP_SHALESH issued server command: /gamemode creative
+[16:01:45] [Server thread/INFO]: [SP_SHALESH: Set own game mode to Creative Mode]
+[16:02:45] [Server thread/INFO]: SP_SHALESH has made the advancement [Cover Me with Diamonds]
+[16:03:32] [Server thread/INFO]: gauti10 lost connection: Timed out
+[16:03:32] [Server thread/INFO]: gauti10 left the game
+[16:03:36] [Server thread/INFO]: SP_SHALESH lost connection: Disconnected
+[16:03:36] [Server thread/INFO]: SP_SHALESH left the game
+[16:09:01] [User Authenticator #3/INFO]: UUID of player gauti10 is e6289888-0fe1-3237-9e67-b3493aad493d
+[16:09:02] [User Authenticator #4/INFO]: UUID of player SP_SHALESH is 7e2f18b9-5e55-3aa9-be96-4690e964d38b
+[16:09:08] [Server thread/INFO]: gauti10 joined the game
+[16:09:08] [Server thread/INFO]: gauti10[/127.110.211.237:50324] logged in with entity id 2232 at ([world]57.5, 69.0, -24.5)
+[16:09:10] [Server thread/INFO]: SP_SHALESH joined the game
+[16:09:10] [Server thread/INFO]: SP_SHALESH[/127.17.248.118:50325] logged in with entity id 2233 at ([world]37.864027129699465, 71.49390748022948, -81.72211968717778)
+[16:09:58] [Server thread/INFO]: gauti10 was slain by SP_SHALESH
+[16:10:18] [Server thread/INFO]: gauti10 issued server command: /gamemode adventure
+[16:10:18] [Server thread/INFO]: [gauti10: Set own game mode to Adventure Mode]
+[16:10:23] [Server thread/INFO]: gauti10 issued server command: /gamemode creative
+[16:10:23] [Server thread/INFO]: [gauti10: Set own game mode to Creative Mode]
+[16:10:36] [Server thread/INFO]: SP_SHALESH has made the advancement [Monster Hunter]
+[16:11:57] [Server thread/INFO]: gauti10 lost connection: Disconnected
+[16:11:57] [Server thread/INFO]: gauti10 left the game
+[16:12:08] [User Authenticator #5/INFO]: UUID of player gauti10 is e6289888-0fe1-3237-9e67-b3493aad493d
+[16:12:08] [Server thread/INFO]: gauti10 joined the game
+[16:12:08] [Server thread/INFO]: gauti10[/127.0.0.1:50382] logged in with entity id 3026 at ([world]91.24597693719454, 85.52786658135601, -137.65616474168397)
+[16:12:53] [Server thread/INFO]: SP_SHALESH issued server command: /gamemode survival
+[16:12:53] [Server thread/INFO]: [SP_SHALESH: Set own game mode to Survival Mode]
+[16:13:11] [Server thread/INFO]: gauti10 issued server command: /gamemode survival
+[16:13:11] [Server thread/INFO]: [gauti10: Set own game mode to Survival Mode]
+[16:13:28] [Server thread/INFO]: gauti10 issued server command: /gamemode creative
+[16:13:28] [Server thread/INFO]: [gauti10: Set own game mode to Creative Mode]
+[16:13:29] [Server thread/INFO]: gauti10 issued server command: /gamemode survival
+[16:13:29] [Server thread/INFO]: [gauti10: Set own game mode to Survival Mode]
+[16:13:31] [Server thread/INFO]: gauti10 issued server command: /gamemode creative
+[16:13:31] [Server thread/INFO]: [gauti10: Set own game mode to Creative Mode]
+[16:14:49] [Server thread/INFO]: SP_SHALESH has made the advancement [Sweet Dreams]
+[16:15:11] [Server thread/INFO]: gauti10 has made the advancement [Sweet Dreams]
+[16:15:46] [Server thread/INFO]: SP_SHALESH issued server command: /gamemode creative
+[16:15:46] [Server thread/INFO]: [SP_SHALESH: Set own game mode to Creative Mode]
+[16:16:16] [Server thread/INFO]: SP_SHALESH issued server command: /gamemode survival
+[16:16:16] [Server thread/INFO]: [SP_SHALESH: Set own game mode to Survival Mode]
+[16:17:40] [Server thread/WARN]: SP_SHALESH was kicked for floating too long!
+[16:17:40] [Server thread/INFO]: SP_SHALESH lost connection: Flying is not enabled on this server
+[16:17:40] [Server thread/INFO]: SP_SHALESH left the game.
+[16:17:40] [Server thread/WARN]: handleDisconnection() called twice
+[16:21:00] [Server thread/INFO]: gauti10 lost connection: Disconnected
+[16:21:00] [Server thread/INFO]: gauti10 left the game
